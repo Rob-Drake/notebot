@@ -1,0 +1,16 @@
+{
+	"irc" : {
+		"server" : "",
+		"botName" : "",
+		"botOwner" : "",
+		"nickPass" : "",
+		"channels" : [""]
+	},
+	"database" : {
+		"host" : "",
+		"port" : "",
+		"database" : "",
+		"user" : "",
+		"password" : ""
+	}
+}
